@@ -1,0 +1,23 @@
+{
+  "name": "graphqloquent",
+  "version": "0.0.1",
+  "description": "Graphql javascript model based - inspired by Laravel Eloquent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ownego/graphqloquent.git"
+  },
+  "keywords": [
+    "graphql",
+    "eloquent"
+  ],
+  "author": "mihnsen <minhnt.hut@gmail.com> (https://github.com/mihnsen/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ownego/graphqloquent/issues"
+  },
+  "homepage": "https://github.com/ownego/graphqloquent#readme"
+}
